@@ -1,0 +1,40 @@
+#Bandeau{
+    width : 600px;
+    height : 20px;
+    background-color: #00CCFF;
+    margin-top: 0px;
+}
+
+
+
+#Contenu{
+    width : 600px;
+    height : 400px;
+    background-color:#FFCC00;
+    margin-top: 0px;
+}
+
+
+
+#Pieddepage{
+    width : 600px;
+    height : 50px;
+    background-color:#33FF99;
+    margin-top: 0px;
+    clear: both;
+    
+}
+
+
+#Menu{
+    float: left;
+    width : 100px;
+    height : 400px;
+    background-color: #FF6699;
+}
+
+
+p{
+    text-align: center;
+    margin-top: 0px; 
+}

@@ -1,0 +1,26 @@
+.Intitulé{
+    color :blue;
+    font-size: 20px;
+}
+
+#StyleRouge{
+    color : red;
+    font-size: 30px;
+}
+
+#StyleBleu{
+    color : blue;
+    font-size: 20px;
+}
+
+
+.TableauVert{
+    color: green;
+}
+
+.TableauBleu{
+    color : blue;
+}
+.PhraseSéparation{
+    color : red;
+}
