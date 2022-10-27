@@ -1,0 +1,44 @@
+#Bandeau{
+    width : 1500px;
+    height : 20px;
+    background-color: #00CCFF;
+    margin: 0px;
+    text-align: center;
+}
+
+
+
+#Contenu{
+    width : 1500px;
+    height : 400px;
+    background-color:#FFCC00;
+    margin: 0px;
+    text-align: center;
+    padding-top: 20%;
+}
+
+
+
+#Pieddepage{
+    width : 1500px;
+    height : 50px;
+    background-color:#33FF99;
+    margin: 0px;
+    text-align: center;
+}
+
+
+#petitContenu{
+    margin-top: 0px;
+    padding-top: 60px;
+}
+
+#petitBandeau{
+    margin-top: 0px;
+    padding-top: 1px;
+}
+
+#petitPieddepage{
+    margin-top : 0px;
+    padding-top: 15px;
+}
